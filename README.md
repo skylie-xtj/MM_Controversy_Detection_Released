@@ -1,4 +1,4 @@
-# MultiModal_Controversy_Detection
+# Multi_Modal_Controversy_Detection
 
 This is the official repo for "A Multimodal Social Video Dataset for Controversy Detection".
 
