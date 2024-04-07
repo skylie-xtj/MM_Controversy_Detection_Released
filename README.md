@@ -22,7 +22,7 @@ We have included a sample metadata file, [metadata_sample.json](data/metadata_sa
 
 ## Approach
 <p align="center">
-    <img src="figures/pic0.png" alt="fig0" width="700" height="300">
+    <img src="figures/pic0.png" alt="fig0" width="700" height="400">
 </p>
 
 <!-- ## Getting Started
