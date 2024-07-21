@@ -45,7 +45,7 @@ title={A Chinese Multimodal Social Video Dataset for Controversy Detection},
 author={Tianjiao, Xu and Aoxuan, Chen and Yuxi, Zhao and Jinfei, Gao and Tian, Gan}, 
 booktitle={Proceedings of {ACM} International Conference on Multimedia},
 year={2024}, 
-organization={AAAI} 
+organization={ACM MM} 
 } 
 ```
 
