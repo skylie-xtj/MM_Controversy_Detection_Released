@@ -36,11 +36,18 @@ pip install -r requirements.txt
 ```
 ### Dataset
 
-
 You may download the [dataset](https://pan.quark.cn/s/379c4b020edd), with password "4EB2".
 
-
-### Reference
+### Citation
+```
+@inproceedings{mmcd, 
+title={A Chinese Multimodal Social Video Dataset for Controversy Detection}, 
+author={Tianjiao, Xu and Aoxuan, Chen and Yuxi, Zhao and Jinfei, Gao and Tian, Gan}, 
+booktitle={Proceedings of {ACM} International Conference on Multimedia},
+year={2024}, 
+organization={AAAI} 
+} 
+```
 
 ## License
 Code released under the [Apache-2.0](LICENSE) License. Dataset released under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
