@@ -1,0 +1,71 @@
+name: train_mcd
+gpu: True
+data_path: &data_path MMCD_utils/dataset
+baseline_type: mcd
+log_type: base_9
+seed: 42
+batch_size: 128
+num_works: 8
+epochs: 100
+lr: 0.00009
+save_threshold: 0.0
+epoch_stop: 10
+log_freq: 10
+
+data:
+  train:
+    target: mcd.src.dataset.MCDDataset
+    params:
+      base_path: *data_path
+      path_vid: vid_fold_train.txt
+  valid:
+    target: mcd.src.dataset.MCDDataset
+    params:
+      base_path: *data_path
+      path_vid: vid_fold_valid.txt
+  test:
+    target: mcd.src.dataset.MCDDataset
+    params:
+      base_path: *data_path
+      path_vid: vid_fold_test.txt
+
+model:
+  smoothness_ratio: 0
+  degree_ratio: 0
+  sparsity_ratio: 0.3
+  v_moe:
+    num_feature: 4
+    cls_dim: 128
+    feature_dim: 1024
+    feature_hidden_dim: 128
+    num_trans_heads: 2
+    dropout: 0.1
+    moe_in_feature: 128
+    moe_hidden_feature: 128
+    moe_out_feature: 128
+    num_experts: 3
+    k: 1
+  vc_gcn:
+    in_feature: 128
+    hidden_feature: 64
+    out_feature: 128
+  comments_gcn:
+    word_embed_dim: 1024
+    hidden_size: 128
+    dropout: 0.5
+    word_dropout: 0.5
+    rnn_dropout: 0.5
+    graph_learn: True
+    graph_metric_type: 'attention'
+    graph_skip_conn:  0.1
+    graph_skip_conn1:  0.05
+    graph_module: 'gcn'
+    no_gnn: False
+    graph_learn_epsilon: 0.4
+    graph_learn_epsilon2: 0.1
+    graph_learn_hidden_size: 50
+    graph_learn_topk: null
+    graph_learn_num_pers: 5
+    graph_hops: 2
+    graph_learn_regularization: True
+    
