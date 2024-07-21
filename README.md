@@ -2,9 +2,6 @@
 
 Official repository for ["***A Chinese Multimodal Social Video Dataset for Controversy Detection***"]. 
 
-- **Dataset**: The annotated dataset will be released soon.
-- **Approach**: Codes for our proposed framework will be released soon. 
-
 ## Dataset
 
 We have included a sample metadata file, [metadata_sample.json](data/metadata_sample.json), in this repository for preview purposes. This sample contains a random selection of 50 videos from the complete dataset. 
