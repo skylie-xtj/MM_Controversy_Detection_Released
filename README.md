@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 ### Dataset
 
-You may download the [dataset](https://pan.quark.cn/s/379c4b020edd), with password "4EB2".
+You may download the [dataset](https://pan.quark.cn/s/379c4b020edd) with password "4EB2".
 
 ### Citation
 ```
@@ -50,4 +50,4 @@ organization={ACM MM}
 Code released under the [Apache-2.0](LICENSE) License. Dataset released under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Ethical Statement
-We gather publicly available video information to investigate its controversial characteristics. In addition to the annotated data, we provide only the links for video downloads. As for publisher's profile, we delete privacy information and only provide embedding of them. It is explicitly mentioned in our paper how the collected data is utilized and for what purposes. It is important to note that our data is intended solely for academic research and should not be employed outside the scope of academic research contexts.
+We gather publicly available video information to investigate its controversial characteristics. In addition to the annotated data, we provide only the links for video downloads. As for publishers' profiles, we delete private information and only provide embeddings of them. It is explicitly mentioned in our paper how the collected data is utilized and for what purposes. It is important to note that our data is intended solely for academic research and should not be employed outside the scope of academic research contexts.
