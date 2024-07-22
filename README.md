@@ -14,18 +14,12 @@
 
 ## :mag: Dataset
 
-We have included a [sample metadata file](data/metadata_sample.json) in this repository for preview purposes. This sample contains a random selection of 50 videos from the complete dataset. You may download the full dataset from [here](https://pan.quark.cn/s/379c4b020edd) (password: 4EB2).
+You may download the full dataset from [here](https://pan.quark.cn/s/379c4b020edd) (password: 4EB2).
 
 <p align="center">
     <img src="figures/pic1.1.png" alt="fig1" width="280" height="390">
     <img src="figures/pic1.2.png" alt="fig2" width="280" height="390">
 </p>
-
-<!-- Annotation system:
-
-<p align="center">
-    <img src="figures/pic2.png" alt="fig3" width="700" height="350">
-</p> -->
 
 ## :memo: Approach
 <p align="center">
