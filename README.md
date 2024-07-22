@@ -51,7 +51,7 @@ python main.py
 If you find our paper and code useful in your research, please consider giving a star :star: and citation :book:.
 
 ```BibTeX
-@inproceedings{wang2023rtq,
+@inproceedings{mmcd,
   author       = {Tianjiao Xu and
                   Aoxuan Chen and
                   Yuxi Zhao and
