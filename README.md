@@ -55,7 +55,7 @@ If you find our paper and code useful in your research, please consider giving a
   author       = {Tianjiao Xu and
                   Aoxuan Chen and
                   Yuxi Zhao and
-                  Jinfei, Gao and
+                  Jinfei Gao and
                   Tian Gan},
   title        = {A Chinese Multimodal Social Video Dataset for Controversy Detection},
   booktitle    = {Proceedings of the {ACM} International Conference on Multimedia},
