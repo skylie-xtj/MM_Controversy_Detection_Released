@@ -1,5 +1,6 @@
 <h1 align="center"> <a href=>A Chinese Multimodal Social Video Dataset <br/> for Controversy Detection</a></h2>
 
+Official repository for "A Chinese Multimodal Social Video Dataset for Controversy Detection", MM 2024. 
 
 ## :sparkles: Keypoints
 * Social video platforms are significant for information dissemination and public discussions, often leading to controversies.
