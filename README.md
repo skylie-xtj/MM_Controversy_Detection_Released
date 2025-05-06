@@ -15,7 +15,7 @@ Official repository for "A Chinese Multimodal Social Video Dataset for Controver
 
 ## :mag: Dataset
 
-We uploaded the main data files in the dataset folder, and you could also directly download the dataset features from [here](https://pan.quark.cn/s/379c4b020edd) (password: 4EB2).
+We uploaded the main data files in the dataset folder, and you could also directly download the dataset features from [here](https://pan.quark.cn/s/59adf3876d39) (password: kJa2).
 
 <p align="center">
     <img src="figures/pic1.1.png" alt="fig1" width="280" height="390">
