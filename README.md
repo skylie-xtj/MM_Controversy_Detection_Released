@@ -1,5 +1,6 @@
 <h1 align="center"> <a href=>A Chinese Multimodal Social Video Dataset <br/> for Controversy Detection</a></h2>
 
+Official repository for "A Chinese Multimodal Social Video Dataset for Controversy Detection", MM 2024. 
 
 ## :sparkles: Keypoints
 * Social video platforms are significant for information dissemination and public discussions, often leading to controversies.
@@ -14,7 +15,7 @@
 
 ## :mag: Dataset
 
-You may download the full dataset from [here](https://pan.quark.cn/s/379c4b020edd) (password: 4EB2).
+We uploaded the main data files in the dataset folder, and you could also directly download the dataset features from [here](https://pan.quark.cn/s/379c4b020edd) (password: 4EB2).
 
 <p align="center">
     <img src="figures/pic1.1.png" alt="fig1" width="280" height="390">
@@ -46,11 +47,7 @@ If you find our paper and code useful in your research, please consider giving a
 
 ```BibTeX
 @inproceedings{mmcd,
-  author       = {Tianjiao Xu and
-                  Aoxuan Chen and
-                  Yuxi Zhao and
-                  Jinfei Gao and
-                  Tian Gan},
+  author       = {Xu, Tianjiao and Chen, Aoxuan and Zhao, Yuxi and Gao, Jinfei and Gan, Tian},
   title        = {A Chinese Multimodal Social Video Dataset for Controversy Detection},
   booktitle    = {Proceedings of the {ACM} International Conference on Multimedia},
   publisher    = {{ACM}},
