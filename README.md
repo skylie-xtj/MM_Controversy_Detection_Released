@@ -51,6 +51,7 @@ If you find our paper and code useful in your research, please consider giving a
   title        = {A Chinese Multimodal Social Video Dataset for Controversy Detection},
   booktitle    = {Proceedings of the {ACM} International Conference on Multimedia},
   publisher    = {{ACM}},
+  page         = {2898--2907},
   year         = {2024},
 }
 ```
