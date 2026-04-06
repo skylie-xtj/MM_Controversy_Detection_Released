@@ -1,6 +1,18 @@
-<h1 align="center"> <a href=>A Chinese Multimodal Social Video Dataset <br/> for Controversy Detection</a></h2>
+# `A Chinese Multimodal Social Video Dataset for Controversy Detection`
 
-Official repository for "A Chinese Multimodal Social Video Dataset for Controversy Detection", MM 2024. 
+> A large-scale Chinese multimodal social video dataset (MMCD) with rich social context for controversy detection, along with a multi-view modeling framework.
+
+## Authors
+
+**Tianjiao Xu**<sup>1</sup>, **Aoxuan Chen**<sup>1</sup>, **Yuxi Zhao**<sup>1</sup>, **Jinfei Gao**<sup>1</sup>, **Tian Gan**<sup>1</sup>*
+
+<sup>1</sup> Shandong University
+* Corresponding author
+
+## Links
+
+* **Paper**: [MM 2024](https://dl.acm.org/doi/10.1145/3664647.3681630)
+* **Code Repository**: [`GitHub`](https://github.com/iLearn-Lab/<repo-name>)
 
 ## :sparkles: Keypoints
 * Social video platforms are significant for information dissemination and public discussions, often leading to controversies.
