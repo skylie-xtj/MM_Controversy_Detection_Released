@@ -1,11 +1,36 @@
-# `A Chinese Multimodal Social Video Dataset for Controversy Detection`
+<a id="top"></a>
 
-> A large-scale Chinese multimodal social video dataset (MMCD) with rich social context for controversy detection, along with a multi-view modeling framework.
+<div align="center">
 
-**Tianjiao Xu**<sup>1</sup>, **Aoxuan Chen**<sup>1</sup>, **Yuxi Zhao**<sup>1</sup>, **Jinfei Gao**<sup>1</sup>, **Tian Gan**<sup>1</sup>*
+# 🎬 A Chinese Multimodal Social Video Dataset for Controversy Detection
 
-<sup>1</sup> Shandong University
-* Corresponding author
+<p>
+  <b>Tianjiao Xu</b><sup>1</sup> &nbsp;
+  <b>Aoxuan Chen</b><sup>1</sup> &nbsp;
+  <b>Yuxi Zhao</b><sup>1</sup> &nbsp;
+  <b>Jinfei Gao</b><sup>1</sup> &nbsp;
+  <b>Tian Gan</b><sup>1</sup><sup>*</sup>
+</p>
+
+<p>
+  <sup>1</sup>Shandong University
+</p>
+
+<p>
+  <sup>*</sup> Corresponding author
+</p>
+
+<p>
+  <a href="https://dl.acm.org/doi/10.1145/3664647.3681630">
+    <img src="https://img.shields.io/badge/ACM_MM-2024-blue.svg?style=flat-square">
+  </a>
+</p>
+
+<p>
+  <b>A large-scale Chinese multimodal social video dataset (MMCD) with rich social context for controversy detection, along with a multi-view modeling framework.</b>
+</p>
+
+</div>
 
 ## :sparkles: Keypoints
 * Social video platforms are significant for information dissemination and public discussions, often leading to controversies.
