@@ -26,10 +26,6 @@
   </a>
 </p>
 
-<p>
-  <b>A large-scale Chinese multimodal social video dataset (MMCD) with rich social context for controversy detection, along with a multi-view modeling framework.</b>
-</p>
-
 </div>
 
 ## :sparkles: Keypoints
